@@ -35,8 +35,7 @@ Api que consulta datos en una bd H2 en memoria
 ## Uso
 
 - [Swagger](#http://localhost:8080/swagger-ui/index.html)
-
-  para acceder a swagger  se debera utilizar usuario y contraseña.
+  http://localhost:8080/swagger-ui/index.html
 
 
 ## datos esperados en postman
